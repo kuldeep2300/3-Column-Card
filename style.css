@@ -59,13 +59,12 @@ main {
   -moz-border-radius: 2rem;
   -ms-border-radius: 2rem;
   -o-border-radius: 2rem;
-  align-self: flex-start;
+  margin-top: auto;
+  align-self: start;
 }
 
 .card {
   padding: 3rem;
-  padding-bottom: 6rem;
-  width: 100%;
   display: flex;
   flex-direction: column;
 }
